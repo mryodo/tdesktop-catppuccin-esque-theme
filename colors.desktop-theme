@@ -1,0 +1,211 @@
+name: catppuccin-esque
+shortname: catppuccin_tmp
+
+Flamingo: #ECBFBD
+Magenta: #C6AAE8
+Pink: #F0AFE1
+Red: #E28C8C
+Peach: #F7C196
+Yellow: #EADDA0
+Green: #B3E1A3
+Blue: #A4B9EF
+Black1: #15121C
+Black2: #1B1923
+Black3: #1E1E28
+Black4: #2D293B
+Black5: #3E4058
+Gray: #6E6C7C
+White: #D7DAE0
+Teal: #9DDDCB
+sideBarBg: Black5 // sidebar
+sideBarBgActive: Gray
+sideBarBgRipple: Gray
+sideBarTextFg: White
+sideBarIconFg: White
+sideBarTextFgActive: Teal
+sideBarIconFgActive: Teal
+sideBarBadgeBg: Pink
+sideBarBadgeBgMuted: White
+sideBarBadgeFg: Black3
+windowBg: Black1 // basic
+windowFg: White
+windowBgOver: Black3
+windowFgOver: Flamingo
+windowSubTextFg: Gray
+windowBgRipple: Flamingo
+windowActiveTextFg: Blue
+windowBoldFg: White
+windowBoldFgOver: Flamingo
+windowBgActive:Teal
+radialFg: Black3
+radialBg: Flamingo
+titleBg: Black5 //titlebar
+titleFg: Gray
+titleFgActive: White
+titleShadow: Black5
+
+msgInBg: Blue //bubles //in
+msgInDateFg: Yellow
+msgInBgSelected: Magenta
+msgInDateFgSelected: Gray
+historyTextInFg: Black3
+msgFileThumbLinkInFg: Black3
+historyLinkInFg:Black5
+msgInMonoFg: Gray // Incoming monospaced / code text
+msgFileInBg: Black5
+msgFileInBgOver: Flamingo
+msgInReplyBarColor: Black5           // Incoming msg: vertical bar next to reply
+msgInReplyBarSelColor: Black5        // Incoming msg: vertical bar next to reply (selected)
+msgInReplyCaptionFg:Black1
+msgInServiceFg: Gray
+
+
+
+msgOutBg: Teal //bubbles //out
+msgOutDateFg: Gray
+msgOutBgSelected: Green
+msgOutDateFgSelected: Gray
+historyTextOutFg: Black3
+msgFileThumbLinkOutFg: Black3
+historyLinkOutFg:Black5
+msgOutMonoFg:Gray
+msgFileOutBg: Black5
+msgFileOutBgOver: Flamingo
+msgOutReplyBarColor: Black5          // Outgoing msg: vertical bar next to reply
+msgOutReplyBarSelColor: Black5
+msgOutServiceFg: Gray
+
+
+msgFile2Bg: White
+msgFile2BgDark: White
+msgFile2BgOver: White
+
+
+
+historyComposeAreaBg: Black5 //compose area
+historyComposeAreaFg: White
+historyComposeAreaFgService: Black5
+historyComposeButtonBg: Black5
+historyComposeButtonBgOver: Gray
+historyComposeButtonBgRipple: Gray
+historyComposeIconFg: White
+historyComposeIconFgOver: White
+dialogsBg: Black3 //chat list
+dialogsBgActive: Black5
+dialogsBgOver: Black5
+dialogsBgRipple: Black5
+dialogsChatIconFg: Pink
+dialogsChatIconFgActive: White
+dialogsChatIconFgOver: Pink
+dialogsNameFg: Flamingo
+dialogsNameFgActive: White
+dialogsNameFgOver: White
+dialogsDateFg: Gray
+dialogsDateFgActive: Gray
+dialogsDateFgOver: Gray
+dialogsDraftFg: Peach
+dialogsDraftFgActive: Red
+dialogsDraftFgOver: Red
+filterInputBorderFg: White //search bar 
+filterInputInactiveBg: Black5
+dialogsVerifiedIconBg: Pink //verified 
+dialogsVerifiedIconBgActive: Pink
+dialogsVerifiedIconBgOver: Pink
+dialogsVerifiedIconFg: Black5
+dialogsVerifiedIconFgActive: Black5
+dialogsVerifiedIconFgOver: Black5
+profileVerifiedCheckFg: Black5
+profileVerifiedCheckBg: Pink
+dialogsSentIconFg: Blue //ticks
+dialogsSentIconFgOver: Blue
+dialogsSentIconFgActive: White
+dialogsSendingIconFg: White
+dialogsSendingIconFgActive: White
+dialogsSendingIconFgOver: White
+activeButtonBg: Blue //active buttons (e.g. after select)
+activeButtonBgOver: Flamingo
+activeButtonBgRipple: Flamingo
+activeButtonFg: Black5
+activeButtonFgOver: Black5
+activeButtonSecondaryFg: Gray
+activeButtonSecondaryFgOver: Gray
+boxBg: Black3 //main menu
+boxTextFgError: Red
+boxTextFgGood: Green
+boxTitleAdditionalFg: White
+boxTitleCloseFg: White
+boxTitleCloseFgOver: Flamingo
+boxTitleFg: White
+mainMenuBg: Black1
+mainMenuCoverBg: Black5
+mainMenuCoverFg: White
+menuIconFg: White
+menuFgDisabled: White
+menuIconFgOver: White
+attentionButtonBgOver: Red
+attentionButtonBgRipple: Red
+attentionButtonFg: Red
+attentionButtonFgOver: Red
+menuSeparatorFg: White
+checkboxFg: Blue //checkbox
+checkboxFgOver: Blue
+overviewCheckFg: White
+overviewCheckFgActive: Black5
+overviewCheckBgActive: Pink
+overviewPhotoSelectOverlay: #ECBFBD50
+sliderBgActive: Blue //slider
+sliderBgInactive: Blue
+dialogsUnreadBg: Pink //unread counter
+dialogsUnreadBgActive: Pink
+dialogsUnreadBgMuted: Gray
+dialogsUnreadBgMutedActive: Gray
+dialogsUnreadBgMutedOver: Gray
+dialogsUnreadBgOver: Pink
+dialogsUnreadFg: Black5
+dialogsUnreadFgActive: Black5
+dialogsUnreadFgOver: Black5
+lightButtonBg: Blue //smaller buttons
+lightButtonBgOver: Flamingo
+lightButtonBgRipple: Flamingo
+lightButtonFg: Black5
+lightButtonFgOver: Black5
+contactsBg: Black3 //contacts
+contactsBgOver: Black5
+contactsNameFg: White
+contactsStatusFg: White
+contactsStatusFgOnline: Green
+contactsStatusFgOver: White
+tooltipBg: Black5 //tooltip
+tooltipBorderFg: Gray
+tooltipFg: White
+mediaviewMenuBg: White
+
+
+
+
+
+
+
+
+historyPeer1NameFg: Orange                    // Group chat sender name - Orange
+historyPeer1UserpicBg: Black5                   // Blue
+historyPeer2NameFg: Green                    // Green
+historyPeer2UserpicBg: Black5                   // Magenta
+historyPeer3NameFg: Gray                    // Blue
+historyPeer3UserpicBg: #EBCB8B;                   // Orange
+historyPeer4NameFg: Flamingo                    // Megenta
+historyPeer4UserpicBg: #8FBCBB;                   // Green
+historyPeer5NameFg: #Teal;                    // Light Green
+historyPeer5UserpicBg: #BF616A;                   // Red
+historyPeer6NameFg: Red;                    // Red
+historyPeer6UserpicBg: #81A1C1;                   // Dark Blue
+historyPeer7NameFg: Black1                    // Dark Magenta
+historyPeer7UserpicBg: #A3BE8C;                   // Light Green
+historyPeer8NameFg: Yellow;                    // Yellow
+historyPeer8UserpicBg: #D08770;                   // Dark Magenta
+historyPeerUserpicFg: COLOR_DARK;
+
+
+
+
+
